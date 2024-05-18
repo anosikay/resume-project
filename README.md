@@ -1,2 +1,2 @@
 # resume-project
-my first Html resume project , check it out , learning is  web dev is fun.
+my first Html resume project , check it out , learning web dev is fun.
